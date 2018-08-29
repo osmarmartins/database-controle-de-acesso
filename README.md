@@ -5,7 +5,9 @@ Nesse script de banco de dados, são apresentadas tabelas e
 seus relacionamentos para serem utilizadas em um controle de acesso 
 a funcionalidades de um sistema.
 
+
 **Tabelas ** e suas finalidades:
+
 | Tabela                | Finalidade                               |
 |---------------------- | -----------------------------------------|
 | login_usuario         | Relação de usuários                      |
@@ -20,11 +22,9 @@ a funcionalidades de um sistema.
 
 ## Ferramentas ##
 Banco de dados [MySQL Server Community.](https://dev.mysql.com/downloads/mysql/5.6.html)
-
 Gerenciador de banco de dados [MySQL Workbench.](https://dev.mysql.com/downloads/workbench/)
  
 ## Documentação ##
 [MySQL Server 5.6.](https://dev.mysql.com/doc/refman/5.6/en/)
-
 [MySQL Workbench.](https://dev.mysql.com/doc/workbench/en/)
 
