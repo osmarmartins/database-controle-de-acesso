@@ -6,7 +6,7 @@ seus relacionamentos para serem utilizadas em um controle de acesso
 a funcionalidades de um sistema.
 
 
-**Tabelas ** e suas finalidades:
+**Tabelas** e suas finalidades:
 
 | Tabela                | Finalidade                               |
 |---------------------- | -----------------------------------------|
@@ -20,11 +20,15 @@ a funcionalidades de um sistema.
 **DER** - Diagrama-Entidade-Relacionamento
 ![enter image description here](https://raw.githubusercontent.com/osmarmartins/database-controle-de-acesso/master/DER.JPG)
 
+
 ## Ferramentas ##
 Banco de dados [MySQL Server Community.](https://dev.mysql.com/downloads/mysql/5.6.html)
+
 Gerenciador de banco de dados [MySQL Workbench.](https://dev.mysql.com/downloads/workbench/)
- 
+
+
 ## Documentação ##
 [MySQL Server 5.6.](https://dev.mysql.com/doc/refman/5.6/en/)
+
 [MySQL Workbench.](https://dev.mysql.com/doc/workbench/en/)
 
