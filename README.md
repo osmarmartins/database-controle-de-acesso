@@ -32,3 +32,7 @@ Gerenciador de banco de dados [MySQL Workbench.](https://dev.mysql.com/downloads
 
 [MySQL Workbench.](https://dev.mysql.com/doc/workbench/en/)
 
+
+## BCrypt ##
+[Link para gerar senha](https://bcrypt-generator.com/)
+
