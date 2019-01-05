@@ -34,5 +34,7 @@ Gerenciador de banco de dados [MySQL Workbench.](https://dev.mysql.com/downloads
 
 
 ## BCrypt ##
-[Link para gerar senha](https://bcrypt-generator.com/)
+Para usar Hash BCrypt para encriptar a senha, deve-se alterar o tamanho da senha na tabela "login_usuario": senha varchar(62)
+
+[Link para gerar senha.](https://bcrypt-generator.com/)
 
