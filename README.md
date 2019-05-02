@@ -8,13 +8,13 @@ a funcionalidades de um sistema.
 
 **Tabelas** e suas finalidades:
 
-| Tabela                | Finalidade                               |
-|---------------------- | -----------------------------------------|
-| login_usuario         | Relação de usuários                      |
-| login_perfil          | Perfil de usuários (grupo de usuários)   |
-| login_operacao        | Relação das funcionalidades              |
-| login_usuario_perfil  | Usuários pertencentes a um perfil        |
-| login_perfil_operacao | Operações permitidas por perfil          |
+| Tabela                   | Finalidade                               |
+|------------------------- | -----------------------------------------|
+| login_usuario            | Relação de usuários                      |
+| login_perfil             | Perfil de usuários (grupo de usuários)   |
+| login_autorizacao        | Relação dos privilégios de acesso        |
+| login_usuario_perfil     | Relação de usuários de um perfil         |
+| login_perfil_autorizacao | Privilégios permitidos por perfil        |
 
 
 **DER** - Diagrama-Entidade-Relacionamento
